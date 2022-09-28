@@ -1,4 +1,0 @@
-/Users/asmitakarmakar/AndroidStudioProjects/cs371M/android-basics-kotlin-lunch-tray-app-main/app/src/androidTest/java/com/example/lunchtray/MenuContentTests.kt
-/Users/asmitakarmakar/AndroidStudioProjects/cs371M/android-basics-kotlin-lunch-tray-app-main/app/src/androidTest/java/com/example/lunchtray/BaseTest.kt
-/Users/asmitakarmakar/AndroidStudioProjects/cs371M/android-basics-kotlin-lunch-tray-app-main/app/src/androidTest/java/com/example/lunchtray/NavigationTests.kt
-/Users/asmitakarmakar/AndroidStudioProjects/cs371M/android-basics-kotlin-lunch-tray-app-main/app/src/androidTest/java/com/example/lunchtray/OrderFunctionalityTests.kt

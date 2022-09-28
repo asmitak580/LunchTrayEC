@@ -60,7 +60,8 @@ class AccompanimentMenuFragment : Fragment() {
         binding.apply {
             lifecycleOwner = viewLifecycleOwner
             viewModel = sharedViewModel
-            // TODO: initialize the AccompanimentMenuFragment variables
+            // : initialize the AccompanimentMenuFragment variables
+            accompanimentMenuFragment = this@AccompanimentMenuFragment
         }
     }
 
@@ -79,7 +80,7 @@ class AccompanimentMenuFragment : Fragment() {
         ///  Reset order in view model
         sharedViewModel.resetOrder()
         //  Navigate back to the [StartFragment] to start over
-        findNavController().navigate(R.id.action_checkoutFragment_to_startOrderFragment)
+        findNavController().navigate(R.id.action_accompanimentMenuFragment_to_startOrderFragment)
     }
 
     /**
